@@ -2,13 +2,13 @@
 
 ## Task
 
-Create a Single Page Application fpr a shopping experience.
+Create a Single Page Application for a shopping experience.
 
 The app should fetch at least 9 products from https://fakestoreapi.com/.
 
-the app should show these products in a grid or list view (see layout-1.pdf and layout-2.pdf).
+The app should show these products in a grid or list view (see layout-1.pdf and layout-2.pdf).
 
-the layouts are just an inspiration, pleae feel free to create your design as you think it's best.
+The layouts are just an inspiration, pleae feel free to create your design as you think it's best.
 
 If you click on one of the products, it should be added to the shopping cart and the hit count should increase.
 
