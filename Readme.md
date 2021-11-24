@@ -16,3 +16,7 @@ It should be possible to see the content of the shopping cart by clicking on the
 
 a single item can be removed from the shopping cart. 
 
+## Requirements
+
+- Create a SPA with a framework of your choice (Angular, React, Vue, ...).
+- Use a version management (GitHub, Bitbucket) through which you make the project available to us.
